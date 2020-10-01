@@ -31,12 +31,13 @@ to usage of the APIs when they're accessed through this library.
 
 ## Support
 
+
 This library is community supported. We're comfortable enough with the stability and features of
 the library that we want you to build real production applications on it. We will try to support,
 through Stack Overflow, the public and protected surface of the library and maintain backwards
 compatibility in the future; however, while the library is in version 0.x, we reserve the right
 to make backwards-incompatible changes. If we do remove some functionality (typically because
-better functionality exists or if the feature proved infeasible), our intention is to deprecate
+better functionality exists or if the feature proved infeasible), we intend to deprecate
 and give developers a year to update their code.
 
 If you find a bug, or have a feature suggestion, please log an issue. If you'd like to
